@@ -43,7 +43,7 @@ ext.deps = [
     glassfishannotations: 'org.glassfish:javax.annotation:10.0-b28',
 
     // AutoValue / PaperParcel
-    autovalue: 'com.google.auto.value:auto-value:1.2-SNAPSHOT',
+    autovalue: 'com.google.auto.value:auto-value:1.2',
     paperparcel: 'com.github.grandstaish.paperparcel:paperparcel:1.0.0-beta1',
     paperparcelcompiler: 'com.github.grandstaish.paperparcel:compiler:1.0.0-beta1',
 
